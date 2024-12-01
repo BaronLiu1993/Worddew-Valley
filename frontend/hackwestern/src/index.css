@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Oswald";
+  src: url("src/assets/pixelFont-7-8x14-sproutLands.ttf");
+}
